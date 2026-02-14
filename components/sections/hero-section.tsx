@@ -6,10 +6,10 @@ import { Button } from "@/components/ui/button"
 import { ArrowRight, Briefcase, Clock, Shield, Star, Users, Zap } from "lucide-react"
 
 const stats = [
-  { value: "50K+", label: "Serviços Realizados" },
-  { value: "15K+", label: "Parceiros Ativos" },
-  { value: "98%", label: "Clientes Satisfeitos" },
-  { value: "100+", label: "Cidades Atendidas" },
+  { value: "Em breve...", label: "Serviços Realizados" },
+  { value: "Em breve...", label: "Parceiros Ativos" },
+  { value: "Em breve...", label: "Clientes Satisfeitos" },
+  { value: "5", label: "Cidades Atendidas" },
 ]
 
 export function HeroSection() {

@@ -12,7 +12,7 @@ const footerLinks = {
   empresa: [
     { label: "Quem Somos", href: "/quem-somos" },
     { label: "Carreiras", href: "/carreiras" },
-    { label: "Imprensa", href: "/imprensa" },
+    { label: "Trabalhe Conosco", href: "/trabalhe-onosco" },
     { label: "Blog", href: "/blog" },
   ],
   suporte: [
@@ -31,7 +31,7 @@ const footerLinks = {
 
 const socialLinks = [
   { icon: Facebook, href: "https://facebook.com", label: "Facebook" },
-  { icon: Instagram, href: "https://instagram.com", label: "Instagram" },
+  { icon: Instagram, href: "https://www.instagram.com/umcrickapp?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==", label: "Instagram" },
   { icon: Twitter, href: "https://twitter.com", label: "Twitter" },
   { icon: Linkedin, href: "https://linkedin.com", label: "LinkedIn" },
 ]
