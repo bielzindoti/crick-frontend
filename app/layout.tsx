@@ -8,8 +8,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'UmCrick! - Empregos Temporários e Bicos',
-  description: 'Plataforma de empregos temporários que conecta pessoas a oportunidades de trabalho rápidas. Encontre bicos ou ganhe renda extra!',
+  title: 'UmCrick! - Empregos Temporários e Bicos em apenas um crick!',
+  description: 'Plataforma de empregos temporários que conecta pessoas a oportunidades de trabalho rápidas. Encontre bicos ou ganhe renda extra! Venha ser UmCrick!',
   generator: 'v0.app',
   icons: {
     icon: [

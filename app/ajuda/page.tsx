@@ -33,7 +33,7 @@ const helpCategories = [
   {
     id: "primeiros-passos",
     icon: Smartphone,
-    title: "Primeiros Passos",
+    title: "Primeiros Passinhos",
     description: "Como começar a usar o BICOS",
     articles: [
       { title: "Como criar uma conta", href: "#" },
@@ -58,9 +58,9 @@ const helpCategories = [
     id: "servicos",
     icon: Settings,
     title: "Serviços",
-    description: "Contratar ou oferecer serviços",
+    description: "Contratar ou oferecer serviços crick!",
     articles: [
-      { title: "Como contratar um profissional", href: "#" },
+      { title: "Como contratar um profissional crick!", href: "#" },
       { title: "Como receber solicitações", href: "#" },
       { title: "Cancelar um serviço", href: "#" },
       { title: "Reagendar um serviço", href: "#" },
@@ -87,18 +87,18 @@ const helpCategories = [
       { title: "Dicas de segurança", href: "#" },
       { title: "Reportar comportamento suspeito", href: "#" },
       { title: "Autenticação de dois fatores", href: "#" },
-      { title: "Golpes comuns e como evitar", href: "#" },
+      { title: "Erros comuns e como evitar", href: "#" },
     ]
   },
   {
     id: "parceiros",
     icon: Users,
     title: "Para Parceiros",
-    description: "Dúvidas exclusivas de prestadores",
+    description: "Dúvidas exclusivas de crick prestadores!",
     articles: [
-      { title: "Como aumentar minha visibilidade", href: "#" },
+      { title: "Como aumentar minha visibilidade crick!", href: "#" },
       { title: "Definir preços competitivos", href: "#" },
-      { title: "Gerenciar minha agenda", href: "#" },
+      { title: "Gerenciar minha agenda crick!", href: "#" },
       { title: "Obter mais avaliações", href: "#" },
     ]
   },
@@ -106,7 +106,7 @@ const helpCategories = [
 
 const popularQuestions = [
   {
-    question: "Como faço para me cadastrar como Parceiro?",
+    question: "Como faço para me cadastrar como Parceiro crick!?",
     answer: "Para se cadastrar como Parceiro, acesse a pagina de cadastro e selecione 'Sou Parceiro'. Voce precisara fornecer seus dados pessoais, endereco, definir suas categorias de servico e criar uma senha. Apos o cadastro, voce pode enviar documentos para verificacao e aumentar sua credibilidade."
   },
   {
@@ -126,8 +126,8 @@ const popularQuestions = [
     answer: "Após cada serviço, ambas as partes podem deixar avaliações de 1 a 5 estrelas e comentários. As avaliações são públicas e ajudam a construir confiança na comunidade. Avaliações falsas ou abusivas são removidas após análise."
   },
   {
-    question: "Posso usar o BICOS em qualquer cidade?",
-    answer: "O UmCrick! esta disponivel em mais de 100 cidades brasileiras e continuamos expandindo. Ao se cadastrar, voce define sua area de atuacao. Se sua cidade ainda nao esta disponivel, cadastre-se para ser notificado quando chegarmos la."
+    question: "Posso usar o UmCrick! em qualquer cidade?",
+    answer: "O UmCrick! está disponivel apenas no estado de São Paulo por enquanto. Embreve, expandiremos á todo o Brasil."
   },
 ]
 

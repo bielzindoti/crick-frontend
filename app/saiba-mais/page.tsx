@@ -29,7 +29,7 @@ const topics = [
     items: [
       {
         question: "Quais são as regras de conduta na plataforma?",
-        answer: "Todos os usuarios devem tratar uns aos outros com respeito e profissionalismo. Nao toleramos discriminacao, assedio ou comportamentos abusivos. Qualquer violacao pode resultar em suspensao ou banimento da conta."
+        answer: "Todos os usuarios devem tratar uns aos outros com respeito e profissionalismo. Nõa toleramos discriminação, assédio ou comportamentos abusivos. Qualquer violacao pode resultar em suspensao ou banimento da conta."
       },
       {
         question: "Como funciona o sistema de avaliações?",
@@ -41,7 +41,7 @@ const topics = [
       },
       {
         question: "Como são resolvidas as disputas?",
-        answer: "Disputas são mediadas pela equipe do BICOS. Ambas as partes podem apresentar evidências e nossa equipe tomará uma decisão justa em até 48 horas úteis. Decisões podem incluir reembolsos parciais ou totais."
+        answer: "Disputas são mediadas pela equipe da UMCRICK. Ambas as partes podem apresentar evidências e nossa equipe tomará uma decisão justa em até 48 horas úteis. Decisões podem incluir reembolsos parciais ou totais."
       },
     ]
   },
@@ -52,7 +52,7 @@ const topics = [
     description: "Condições legais para utilização dos nossos serviços.",
     items: [
       {
-        question: "Quem pode usar o BICOS?",
+        question: "Quem pode usar a UMCRICK?",
         answer: "O UmCrick! esta disponivel para maiores de 18 anos com CPF valido. Menores de idade nao podem se cadastrar nem como clientes nem como parceiros. A plataforma esta disponivel em todo o territorio brasileiro."
       },
       {
@@ -97,7 +97,7 @@ const topics = [
     id: "pagamentos",
     icon: CreditCard,
     title: "Pagamentos",
-    description: "Como funcionam as transações financeiras no BICOS.",
+    description: "Como funcionam as transações financeiras na UMCRICK.",
     items: [
       {
         question: "Quais formas de pagamento são aceitas?",
@@ -105,15 +105,15 @@ const topics = [
       },
       {
         question: "Como funciona o pagamento para parceiros?",
-        answer: "O valor do serviço fica retido na plataforma até a conclusão. Após confirmação do cliente, o dinheiro é liberado para a carteira do parceiro em até 24 horas. Saques podem ser feitos a qualquer momento via PIX ou transferência bancária."
+        answer: "O valor do serviço fica retido na plataforma até a conclusão. Após confirmação do cliente, o dinheiro é liberado para a carteira do parceiro em até 5 minutos. Saques podem ser feitos a qualquer momento via PIX ou transferência bancária."
       },
       {
         question: "Quais são as taxas cobradas?",
-        answer: "O UmCrick! cobra uma taxa de servico de 15% sobre o valor de cada bico para parceiros. Clientes pagam o valor acordado sem taxas adicionais. Nao ha mensalidades ou taxas de adesao."
+        answer: "O UmCrick! cobra uma taxa de servico de 2,5% sobre o valor de cada bico para parceiros. Clientes pagam o valor acordado sem taxas adicionais. Não há mensalidades ou taxas de adesão."
       },
       {
         question: "Como solicitar reembolso?",
-        answer: "Reembolsos podem ser solicitados em até 48 horas após a conclusão do serviço se houver problemas não resolvidos. Análise é feita em até 5 dias úteis. Reembolsos aprovados são creditados na mesma forma de pagamento original."
+        answer: "Reembolsos podem ser solicitados em até 72 horas após a conclusão do serviço se houver problemas não resolvidos. Análise é feita em até 2 dias úteis. Reembolsos aprovados são creditados na mesma forma de pagamento original."
       },
     ]
   },
@@ -137,7 +137,7 @@ const topics = [
       },
       {
         question: "Vocês usam cookies?",
-        answer: "Sim, usamos cookies essenciais para funcionamento da plataforma e cookies analíticos para entender como você usa o serviço. Você pode gerenciar preferências de cookies nas configurações do seu navegador."
+        answer: "No momento estamos em carência para cookies e subjunções ou extensões em nosso site, visto que, o foco principal de nossa atuação será baseada no redirecionamento ao aplicativo, portanto, o site apenas coleta seus dados de login e o mantém conectado á nossa base e de nossa aplicação. No momento, nós apenas realizamos o uso de cookies essenciais para funcionamento da plataforma e cookies analíticos para entender como você usa os serviços, para assim, levar uma experiência personalizada e segura apenas para nossos usuários! Você pode gerenciar preferências de cookies nas configurações do seu navegador"
       },
     ]
   },

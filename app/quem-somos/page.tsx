@@ -19,7 +19,7 @@ const values = [
   {
     icon: Heart,
     title: "Compromisso",
-    description: "Dedicação total aos nossos usuários, garantindo a melhor experiência possível.",
+    description: "Dedicação total aos nossos usuários, garantindo a melhor experiência crick possível.",
   },
   {
     icon: Shield,
@@ -39,17 +39,17 @@ const values = [
 ]
 
 const milestones = [
-  { year: "2022", title: "Fundacao", description: "Nasce a ideia do UmCrick! em Sao Paulo" },
-  { year: "2023", title: "Lancamento", description: "Primeira versao da plataforma no ar" },
-  { year: "2024", title: "Expansao", description: "Presenca em mais de 50 cidades" },
-  { year: "2025", title: "Crescimento", description: "50.000 bicos realizados" },
+  { year: "2023", title: "Idealização", description: "Nasce a ideia do UmCrick! em Sao Paulo" },
+  { year: "2024", title: "Teste", description: "Primeira versão da plataforma sendo criada" },
+  { year: "2025", title: "Expansao", description: "Testes beta e validações da plataforma" },
+  { year: "2026", title: "Crescimento", description: "Primeira plataforma enfim lançada!" },
 ]
 
 const team = [
-  { name: "Maria Silva", role: "CEO & Fundadora", image: null },
-  { name: "João Santos", role: "CTO", image: null },
-  { name: "Ana Costa", role: "Head de Operações", image: null },
-  { name: "Pedro Lima", role: "Head de Produto", image: null },
+  { name: "Gabriel Cardoso", role: "CEO, CTO & Fundador", image: null },
+  { name: "Em breve", role: "CFO", image: null },
+  { name: "Em breve", role: "Head de Operações", image: null },
+  { name: "Em breve", role: "Head de Produto", image: null },
 ]
 
 export default function QuemSomosPage() {
@@ -70,9 +70,9 @@ export default function QuemSomosPage() {
                 Conectando talentos a oportunidades em todo o Brasil
               </h1>
               <p className="mt-6 text-lg text-accent-foreground/80 leading-relaxed">
-                O UmCrick! nasceu da necessidade de democratizar o acesso a empregos temporarios, 
-                criando uma ponte segura e eficiente entre quem precisa de servicos rapidos e quem 
-                quer ganhar uma renda extra com bicos.
+                O UmCrick! nasceu da necessidade de facilitar, agilizar e melhorar o acesso a empregos temporarios, 
+                criando uma ponte segura e eficiente entre quem precisa de servicos rápidos e quem 
+                quer ganhar uma renda extra.
               </p>
             </div>
           </div>
