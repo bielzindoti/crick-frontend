@@ -47,7 +47,7 @@ const milestones = [
 
 const team = [
   { name: "Gabriel Cardoso", role: "CEO, CTO & Fundador", image: null },
-  { name: "Em breve", role: "CFO", image: null },
+  { name: "Arthur Villegas", role: "CEO Co-Fundador & CTO, Head CISO", image: null },
   { name: "Em breve", role: "Head de Operações", image: null },
   { name: "Em breve", role: "Head de Produto", image: null },
 ]
